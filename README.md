@@ -1,3 +1,14 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Maria Fernanda Carreon &center=true&size=30">
+  </a>
+</h1>
+
+ 
+ 
+ 
  <div>
    <a href="https://github.com/mafecarreon">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mafecarreon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,3 +34,4 @@
   ![Snake animation](https://github.com/mafecarreon/mafecarreon/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+![Profile views](https://gpvc.arturio.dev/[mafecarreon])
