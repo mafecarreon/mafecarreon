@@ -1,12 +1,9 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Maria+Fernanda+Carreon&center=true&size=30">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=500&size=30&duration=1&pause=1000&color=179C1E&center=falso&vCenter=falso&repeat=verdadeiro&height=100&lines=Maria+Fernanda+Carreon" alt="Typing SVG" /></a>
   </a>
 </h1>
 
- 
- 
- 
+
  <div>
    <a href="https://github.com/mafecarreon">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mafecarreon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
